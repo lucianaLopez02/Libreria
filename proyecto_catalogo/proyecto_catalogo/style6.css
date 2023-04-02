@@ -1,0 +1,67 @@
+body {
+  background-image: url('fondo.png');
+}
+
+.titulo {
+  color: white;
+  font-size: 60px;
+  text-align: center;
+  padding: 6px;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  font-family: 'Sextan', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+input {
+  margin: auto;
+  display: block;
+  font-size: 20px;
+  border-color: black;
+  font-family: fantasy;
+}
+
+.boton {
+  background-color: grey;
+}
+
+.subtitulo{
+  font-size: 2.8vw;
+  text-align: center;
+  font-family: fantasy;
+  color: white;
+}
+
+p{
+  margin-top: 0px;
+  text-align:left;
+  margin-right: 15px;
+}
+.Horarios{
+  margin:auto;
+  font-family: fantasy;
+  width: 19vw;
+  height: 169px;
+  text-align: center;
+  background-color: grey;
+  padding: 20px;
+}
+
+img.izquierda {
+  float: left;
+  margin-right: 15px;
+}
+
+img {
+       width: 270px;
+       border: 4px solid black;
+       border-radius: 8px;
+       /*padding: 10px;*/
+     }
+
+a.face{
+  position: relative;
+    left: 69px;
+}

@@ -1,0 +1,65 @@
+body {
+  background-image: url('fondo.png');
+}
+
+.titulo {
+  color: white;
+  font-size: 60px;
+  text-align: center;
+  padding: 6px;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  font-family: 'Sextan', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+input {
+  margin: auto;
+  display: block;
+  font-size: 20px;
+  border-color: black;
+  font-family: fantasy;
+}
+
+.boton {
+  background-color: grey;
+}
+
+.subtitulo{
+  font-size: 2.8vw;
+  text-align: center;
+  font-family: fantasy;
+  color: white;
+}
+
+p{
+  margin-top: 0px;
+  text-align:left;
+  margin-right: 15px;
+}
+
+.categoria{
+  font-size: 25px;
+  color: white;
+}
+
+.tabla{
+  text-align:center;
+  margin: auto;
+
+}
+
+.tabla1{
+    width: 20%;
+  text-align:center;
+  margin: auto;
+  background-color: white;
+  margin-top: 20px;
+  margin-bottom: 25px;
+  border-collapse: collapse;
+  overflow: hidden;
+  border: 5px ridge silver;
+
+}
